@@ -1,1 +1,1 @@
-not about it
+I am sorry my git commands on my virtualbox are not working right now. I've been extremely limited on time (today specifically) because I went to office hours for Systems to figure out why pushing to my repositories on my virtual box isn't working and the TA that was helping me had me delete my assignment by accident. I'm really behind in this class and in general so I'm sorry that it was uploaded this way. Also github would not let me insert the node_modules file because it has over 100 files.
